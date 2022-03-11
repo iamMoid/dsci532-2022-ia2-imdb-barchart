@@ -4,7 +4,6 @@ library(dashCoreComponents)
 library(ggplot2)
 library(plotly)
 library(purrr)
-library(dashHtmlComponents)
 
 imdb <- read.csv("imdb_2011-2020.csv")
 
